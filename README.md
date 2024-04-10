@@ -20,8 +20,9 @@ Mybatis
 ![输入图片说明](imageshop.png)
 管理页面
 ![输入图片说明](image.png)
-#### 安装教程
+#### 数据库
+/resource/sql
 
-1.  数据库数据联系 xy18796357645
+
 
 

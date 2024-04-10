@@ -6,7 +6,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @author 13
+ * @author zhang
+ * @since 2024-03-27
  */
 @MapperScan("ltd.newbee.mall.dao")
 @SpringBootApplication

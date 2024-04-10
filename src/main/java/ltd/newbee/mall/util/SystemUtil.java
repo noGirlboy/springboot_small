@@ -4,7 +4,8 @@ import java.math.BigInteger;
 import java.security.MessageDigest;
 
 /**
- * @author 13
+ * @author zhang
+ * @since 2024-03-27
  */
 public class SystemUtil {
 

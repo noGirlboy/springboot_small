@@ -3,7 +3,8 @@ package ltd.newbee.mall.util;
 import java.io.Serializable;
 
 /**
- * @author 13
+ * @author zhang
+ * @since 2024-03-27
  */
 public class Result<T> implements Serializable {
     private static final long serialVersionUID = 1L;

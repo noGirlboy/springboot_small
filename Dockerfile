@@ -1,4 +1,9 @@
-FROM openjdk:8
-ADD target/newbee-mall-1.0.0-SNAPSHOT.jar app.jar
+FROM java:8
+
+COPY *.jar /app.jar
+
+CMD ["--server.port=9099"]
+
 EXPOSE 9099
-ENTRYPOINT java -jar /app.jar
+
+ENTRYPOINT ["java", "-jar", "/app.jar"]
